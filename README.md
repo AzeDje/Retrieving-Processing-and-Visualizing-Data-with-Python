@@ -7,11 +7,17 @@ In order to run the full code, follow these steps:
 1- You have to register at https://www.eia.gov/opendata/register.php to get your api_key.
 
 2- When you get it, just make a modification in extract.py and add your api_key in line 33. 
+
 3- Run extract.py
+
 4- Run clean.py
+
 5- Run index.py
+
 6- Run analyze.py
+
 7- Run visualize.py
+
 8- Open visualize.html
 
 So now, let met give you an overview of this project. 
