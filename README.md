@@ -1,4 +1,4 @@
-# Capstone-Project Retrieving, Processing, and Visualizing Data with Python (University of Michigan Through Coursera)
+# Capstone Project: Retrieving, Processing, and Visualizing Data with Python (University of Michigan Through Coursera)
 
 Hello Everyone !
 
