@@ -28,7 +28,7 @@ So well, here we are in the final step of this capstone project. The outcome of 
 
 All in all,  in this capstone project, I have been able to try my hands at a few really interesting Data extracting, processing and visualizing, I have learned a lot more than I expected, that was super important for me in how to overcome different problems and find solutions, as well as in how to manage all the stages of this project. 
 
-Thank you Dr. Charles Severance for being such a great professor, and thank you everyone for your attention, its pleasure to share my work with you, I remain available for any feedback or any further information you may need about my project.
+Thank you everyone for your attention, its pleasure to share my work with you, I remain available for any feedback or any further information you may need about my project.
 
 Best regards. 
 
